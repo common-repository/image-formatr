@@ -1,0 +1,325 @@
+# Copyright (C) 2014 Image Formatr
+# This file is distributed under the same license as the Image Formatr package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Formatr 1.2.3.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/image-formatr\n"
+"POT-Creation-Date: 2014-05-26 01:35:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: src/class.admin.php:57
+msgid "Popup effects"
+msgstr ""
+
+#: src/class.admin.php:58
+msgid "Do you want images to popup?"
+msgstr ""
+
+#: src/class.admin.php:64
+msgid "Ignore anchors"
+msgstr ""
+
+#: src/class.admin.php:65
+msgid "Ignore any image anchors in the content we process."
+msgstr ""
+
+#: src/class.admin.php:67
+msgid ""
+"NOTE: This option will be overridden with an image`s <code>usemya</code> "
+"attribute."
+msgstr ""
+
+#: src/class.admin.php:70
+msgid "Caption attribute"
+msgstr ""
+
+#: src/class.admin.php:71
+msgid "The image attribute to be used as the caption."
+msgstr ""
+
+#: src/class.admin.php:75
+msgid "Title replacement"
+msgstr ""
+
+#: src/class.admin.php:76
+msgid "The new image title (used for the mouse-over hint in most browsers)."
+msgstr ""
+
+#: src/class.admin.php:78
+msgid "NOTE: this will be overridden by the <em>Strip title</em> option."
+msgstr ""
+
+#: src/class.admin.php:81
+msgid "Strip title"
+msgstr ""
+
+#: src/class.admin.php:82
+msgid "Blank out the image title."
+msgstr ""
+
+#: src/class.admin.php:84
+msgid "NOTE: this will override the <em>Title replacement</em> option."
+msgstr ""
+
+#: src/class.admin.php:87
+msgid "Force root"
+msgstr ""
+
+#: src/class.admin.php:88
+msgid "Force relative parent location of images to the root."
+msgstr ""
+
+#: src/class.admin.php:96
+msgid "Standardize thumbnails"
+msgstr ""
+
+#: src/class.admin.php:97
+msgid "Try to size all images to the thumbnail dimensions."
+msgstr ""
+
+#: src/class.admin.php:106
+msgid "Auto determine orientation"
+msgstr ""
+
+#: src/class.admin.php:112
+msgid ""
+"<strong>WARNING</strong>: may cause pages with lots of images to load slowly."
+msgstr ""
+
+#: src/class.admin.php:116
+msgid "Default dimensions"
+msgstr ""
+
+#: src/class.admin.php:117 src/class.admin.php:127
+msgid "These values will be used as the width & height."
+msgstr ""
+
+#: src/class.admin.php:126
+msgid "Additional dimensions"
+msgstr ""
+
+#: src/class.admin.php:137
+msgid "Use attached image as thumbnail"
+msgstr ""
+
+#: src/class.admin.php:138
+msgid ""
+"Select the size to use for the thumbnail with Wordpress attachment images, "
+"if available."
+msgstr ""
+
+#: src/class.admin.php:149
+msgid "Additional classes"
+msgstr ""
+
+#: src/class.admin.php:150
+msgid ""
+"Enter a space-separated list of classes to add to the image container div."
+msgstr ""
+
+#: src/class.admin.php:153
+msgid "Remove classes"
+msgstr ""
+
+#: src/class.admin.php:154
+msgid ""
+"Enter a space-separated list of classes to remove from the image container "
+"div."
+msgstr ""
+
+#: src/class.admin.php:157
+msgid "Exclude classes"
+msgstr ""
+
+#: src/class.admin.php:158
+msgid ""
+"Enter a space-separated list of classes to exclude images from processing, i."
+"e. images with these classes will not be touched, just displayed \"as-is\"."
+msgstr ""
+
+#: src/class.admin.php:160
+msgid ""
+"Note: <tt>wp-smiley</tt> is the class used by Wordpress <em>emoticons</em>."
+msgstr ""
+
+#: src/class.admin.php:163
+msgid "Caption classes"
+msgstr ""
+
+#: src/class.admin.php:164
+msgid ""
+"Enter a space-separated list of classes to add to the image caption div."
+msgstr ""
+
+#: src/class.admin.php:171
+msgid "Enable Flickr"
+msgstr ""
+
+#: src/class.admin.php:172
+msgid "Process images with the <code>flickr</code> attribute?"
+msgstr ""
+
+#: src/class.admin.php:176
+msgid "Username"
+msgstr ""
+
+#: src/class.admin.php:177
+msgid "Your screen name"
+msgstr ""
+
+#: src/class.admin.php:181
+msgid "Flickr Id"
+msgstr ""
+
+#: src/class.admin.php:182
+msgid "Also known as: Name Server ID (NSID)"
+msgstr ""
+
+#: src/class.admin.php:186
+msgid "Frob"
+msgstr ""
+
+#: src/class.admin.php:191
+msgid "Token"
+msgstr ""
+
+#: src/class.admin.php:196
+msgid "API key"
+msgstr ""
+
+#: src/class.admin.php:201
+msgid "Secret"
+msgstr ""
+
+#: src/class.admin.php:209
+msgid "PrettyPhoto library enabled"
+msgstr ""
+
+#: src/class.admin.php:210
+msgid ""
+"Use the prettyPhoto library included with the Image Formatr plugin to handle "
+"the popup effect?"
+msgstr ""
+
+#: src/class.admin.php:218
+msgid "Popup animation speed"
+msgstr ""
+
+#: src/class.admin.php:219
+msgid "How fast should the popup move?"
+msgstr ""
+
+#: src/class.admin.php:222
+msgid "Popup theme"
+msgstr ""
+
+#: src/class.admin.php:223
+msgid "What theme should the popup use?"
+msgstr ""
+
+#: src/class.admin.php:226
+msgid "Include the social networking buttons?"
+msgstr ""
+
+#: src/class.admin.php:227
+msgid "Should the popup have links to Twitter Tweets and Facebook Likes?"
+msgstr ""
+
+#: src/class.admin.php:230
+msgid "Slideshow group"
+msgstr ""
+
+#: src/class.admin.php:231
+msgid ""
+"You can organize images into groups by giving them a <code>group</code> "
+"attribute."
+msgstr ""
+
+#: src/class.admin.php:233
+msgid ""
+"NOTE: this setting is the default group for all images <b>without</b> the "
+"<em>group</em> attribute."
+msgstr ""
+
+#: src/class.admin.php:239
+msgid "Plugin load priority"
+msgstr ""
+
+#: src/class.admin.php:240
+msgid "What priority should this plugin be loaded with? (default 10)"
+msgstr ""
+
+#: src/class.admin.php:245
+msgid ""
+"See the <a href=\"http://codex.wordpress.org/Plugin_API#Hook_to_WordPress"
+"\">Wordpress Codex Plugin API</a>."
+msgstr ""
+
+#: src/class.admin.php:249
+msgid "Uninstall"
+msgstr ""
+
+#: src/class.admin.php:250
+msgid ""
+"Remove all Image Formatr settings from the database upon plugin deactivation?"
+msgstr ""
+
+#: src/class.admin.php:256
+msgid "<em>Remember: the database is cleaned up when you \"Deactivate\"</em>."
+msgstr ""
+
+#: src/class.admin.php:265
+msgid "Main settings"
+msgstr ""
+
+#: src/class.admin.php:270
+msgid "Thumbnail settings"
+msgstr ""
+
+#: src/class.admin.php:277
+msgid "Styling settings"
+msgstr ""
+
+#: src/class.admin.php:280
+msgid "Flickr settings"
+msgstr ""
+
+#: src/class.admin.php:284
+msgid "PrettyPhoto popup settings"
+msgstr ""
+
+#: src/class.admin.php:290
+msgid "Advanced settings"
+msgstr ""
+
+#. #-#-#-#-#  image-formatr.pot (Image Formatr 1.2.3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: src/class.admin.php:506 src/class.admin.php:507
+msgid "Image Formatr"
+msgstr ""
+
+#: src/class.admin.php:557
+msgid "Only positive integers should be used as %s."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://warriorself.com/blog/about/image-formatr/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Formats all content images on a page / post giving them captions and popups."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Steven Almeroth"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://warriorself.com/sma/"
+msgstr ""
